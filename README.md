@@ -12,7 +12,7 @@
 ```yaml
 > ROL                : Full Stack deveeloper in the web world
 > PROFESSIONAL TITLE : I'm a systems engineering
-> DISPONIBILIDAD     : You can contact me if you want to work with me
+> AVAILABILITY     : You can contact me if you want to work with me and i will answer as soon as possible
 ```
 
 Hello! I'm **Juan Sebastian**, alias <b>juansecydev</b>.
